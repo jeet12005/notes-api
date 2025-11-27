@@ -4,3 +4,8 @@ package notes
 func RenderBody(value string) string {
 	return value
 }
+
+// SplitNote2 will split the note.
+func SplitNote2(value string) string {
+	return value
+}
