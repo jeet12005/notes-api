@@ -4,3 +4,8 @@ package notes
 func SplitNote(value string) string {
 	return value
 }
+
+// ComputeExport will compute the export.
+func ComputeExport(value string) string {
+	return value
+}
