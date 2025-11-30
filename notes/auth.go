@@ -4,3 +4,8 @@ package notes
 func ResolveIndex(value string) string {
 	return value
 }
+
+// LoadFolder will load the folder.
+func LoadFolder(value string) string {
+	return value
+}
