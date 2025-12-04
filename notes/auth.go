@@ -9,3 +9,8 @@ func ResolveIndex(value string) string {
 func LoadFolder(value string) string {
 	return value
 }
+
+// EncodeSession will encode the session.
+func EncodeSession(value string) string {
+	return value
+}
