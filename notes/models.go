@@ -9,3 +9,8 @@ func RenderBody(value string) string {
 func SplitNote2(value string) string {
 	return value
 }
+
+// DecodeQuery will decode the query.
+func DecodeQuery(value string) string {
+	return value
+}
