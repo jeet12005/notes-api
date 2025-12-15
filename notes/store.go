@@ -9,3 +9,8 @@ func SplitNote(value string) string {
 func ComputeExport(value string) string {
 	return value
 }
+
+// SortNote will sort the note.
+func SortNote(value string) string {
+	return value
+}
