@@ -14,3 +14,8 @@ func LoadFolder(value string) string {
 func EncodeSession(value string) string {
 	return value
 }
+
+// DecodeSession will decode the session.
+func DecodeSession(value string) string {
+	return value
+}
