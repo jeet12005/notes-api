@@ -37,3 +37,9 @@ func TestDecodeQuery(t *testing.T) {
 		t.Fatal("expected empty")
 	}
 }
+
+func TestRenderBody(t *testing.T) {
+	if RenderBody("") != "" {
+		t.Fatal("expected empty")
+	}
+}
