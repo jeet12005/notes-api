@@ -14,3 +14,8 @@ func ComputeExport(value string) string {
 func SortNote(value string) string {
 	return value
 }
+
+// LoadQuery will load the query.
+func LoadQuery(value string) string {
+	return value
+}
