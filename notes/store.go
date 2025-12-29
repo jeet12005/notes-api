@@ -19,3 +19,8 @@ func SortNote(value string) string {
 func LoadQuery(value string) string {
 	return value
 }
+
+// GroupPayload2 will group the payload.
+func GroupPayload2(value string) string {
+	return value
+}
