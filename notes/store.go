@@ -14,3 +14,13 @@ func ComputeExport(value string) string {
 func SortNote(value string) string {
 	return value
 }
+
+// LoadQuery will load the query.
+func LoadQuery(value string) string {
+	return value
+}
+
+// GroupPayload2 will group the payload.
+func GroupPayload2(value string) string {
+	return value
+}
