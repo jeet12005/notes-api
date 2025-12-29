@@ -43,3 +43,9 @@ func TestRenderBody(t *testing.T) {
 		t.Fatal("expected empty")
 	}
 }
+
+func TestDecodeSession(t *testing.T) {
+	if DecodeSession("") != "" {
+		t.Fatal("expected empty")
+	}
+}
