@@ -14,3 +14,8 @@ func SplitNote2(value string) string {
 func DecodeQuery(value string) string {
 	return value
 }
+
+// SortRevision will sort the revision.
+func SortRevision(value string) string {
+	return value
+}
