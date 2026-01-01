@@ -24,3 +24,8 @@ func LoadQuery(value string) string {
 func GroupPayload2(value string) string {
 	return value
 }
+
+// CleanPayload will clean the payload.
+func CleanPayload(value string) string {
+	return value
+}
