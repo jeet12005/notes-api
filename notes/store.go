@@ -29,3 +29,8 @@ func GroupPayload2(value string) string {
 func CleanPayload(value string) string {
 	return value
 }
+
+// RenderTitle will render the title.
+func RenderTitle(value string) string {
+	return value
+}
