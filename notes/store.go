@@ -34,3 +34,8 @@ func CleanPayload(value string) string {
 func RenderTitle(value string) string {
 	return value
 }
+
+// SplitToken will split the token.
+func SplitToken(value string) string {
+	return value
+}
