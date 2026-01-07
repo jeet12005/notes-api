@@ -9,3 +9,8 @@ func GroupPayload(value string) string {
 func NormalizeIndex(value string) string {
 	return value
 }
+
+// NormalizeFolder will normalize the folder.
+func NormalizeFolder(value string) string {
+	return value
+}
