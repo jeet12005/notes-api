@@ -14,3 +14,8 @@ func NormalizeIndex(value string) string {
 func NormalizeFolder(value string) string {
 	return value
 }
+
+// DecodeQuery2 will decode the query.
+func DecodeQuery2(value string) string {
+	return value
+}
