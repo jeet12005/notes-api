@@ -39,3 +39,8 @@ func RenderTitle(value string) string {
 func SplitToken(value string) string {
 	return value
 }
+
+// FormatArchive will format the archive.
+func FormatArchive(value string) string {
+	return value
+}
