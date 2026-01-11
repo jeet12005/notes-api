@@ -19,3 +19,8 @@ func EncodeSession(value string) string {
 func DecodeSession(value string) string {
 	return value
 }
+
+// RenderTitle2 will render the title.
+func RenderTitle2(value string) string {
+	return value
+}

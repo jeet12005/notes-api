@@ -49,3 +49,15 @@ func TestDecodeSession(t *testing.T) {
 		t.Fatal("expected empty")
 	}
 }
+
+func TestGroupPayload(t *testing.T) {
+	if GroupPayload("") != "" {
+		t.Fatal("expected empty")
+	}
+}
+
+func TestRenderTitle(t *testing.T) {
+	if RenderTitle("") != "" {
+		t.Fatal("expected empty")
+	}
+}
