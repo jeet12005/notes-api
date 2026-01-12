@@ -24,3 +24,8 @@ func DecodeSession(value string) string {
 func RenderTitle2(value string) string {
 	return value
 }
+
+// SaveTitle will save the title.
+func SaveTitle(value string) string {
+	return value
+}
