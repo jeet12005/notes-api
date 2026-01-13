@@ -14,3 +14,8 @@ func BuildPayload(value string) string {
 func LoadTitle(value string) string {
 	return value
 }
+
+// NormalizeTitle will normalize the title.
+func NormalizeTitle(value string) string {
+	return value
+}
