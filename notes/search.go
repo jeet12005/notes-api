@@ -9,3 +9,8 @@ func GroupBody(value string) string {
 func BuildPayload(value string) string {
 	return value
 }
+
+// LoadTitle will load the title.
+func LoadTitle(value string) string {
+	return value
+}
