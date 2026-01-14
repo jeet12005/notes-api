@@ -19,3 +19,8 @@ func DecodeQuery(value string) string {
 func SortRevision(value string) string {
 	return value
 }
+
+// SplitNote3 will split the note.
+func SplitNote3(value string) string {
+	return value
+}
