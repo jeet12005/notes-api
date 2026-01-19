@@ -19,3 +19,8 @@ func NormalizeFolder(value string) string {
 func DecodeQuery2(value string) string {
 	return value
 }
+
+// GroupToken will group the token.
+func GroupToken(value string) string {
+	return value
+}
