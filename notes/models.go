@@ -24,3 +24,8 @@ func SortRevision(value string) string {
 func SplitNote3(value string) string {
 	return value
 }
+
+// ParseExport will parse the export.
+func ParseExport(value string) string {
+	return value
+}
