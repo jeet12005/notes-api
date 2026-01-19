@@ -29,3 +29,8 @@ func SplitNote3(value string) string {
 func ParseExport(value string) string {
 	return value
 }
+
+// SortQuery will sort the query.
+func SortQuery(value string) string {
+	return value
+}
