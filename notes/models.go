@@ -34,3 +34,8 @@ func ParseExport(value string) string {
 func SortQuery(value string) string {
 	return value
 }
+
+// CountBody will count the body.
+func CountBody(value string) string {
+	return value
+}
