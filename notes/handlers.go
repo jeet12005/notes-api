@@ -24,3 +24,8 @@ func DecodeQuery2(value string) string {
 func GroupToken(value string) string {
 	return value
 }
+
+// RenderPage will render the page.
+func RenderPage(value string) string {
+	return value
+}
