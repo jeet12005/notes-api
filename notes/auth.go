@@ -29,3 +29,8 @@ func RenderTitle2(value string) string {
 func SaveTitle(value string) string {
 	return value
 }
+
+// CountUser will count the user.
+func CountUser(value string) string {
+	return value
+}
