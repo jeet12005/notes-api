@@ -44,3 +44,8 @@ func SplitToken(value string) string {
 func FormatArchive(value string) string {
 	return value
 }
+
+// RenderQuery will render the query.
+func RenderQuery(value string) string {
+	return value
+}
