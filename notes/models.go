@@ -39,3 +39,8 @@ func SortQuery(value string) string {
 func CountBody(value string) string {
 	return value
 }
+
+// ResolvePage will resolve the page.
+func ResolvePage(value string) string {
+	return value
+}
