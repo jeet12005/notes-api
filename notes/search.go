@@ -19,3 +19,8 @@ func LoadTitle(value string) string {
 func NormalizeTitle(value string) string {
 	return value
 }
+
+// ResolvePayload will resolve the payload.
+func ResolvePayload(value string) string {
+	return value
+}
