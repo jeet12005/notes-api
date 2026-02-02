@@ -24,3 +24,8 @@ func NormalizeTitle(value string) string {
 func ResolvePayload(value string) string {
 	return value
 }
+
+// ValidateRoute will validate the route.
+func ValidateRoute(value string) string {
+	return value
+}
