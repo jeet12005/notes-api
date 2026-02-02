@@ -44,3 +44,8 @@ func CountBody(value string) string {
 func ResolvePage(value string) string {
 	return value
 }
+
+// FormatSession will format the session.
+func FormatSession(value string) string {
+	return value
+}
