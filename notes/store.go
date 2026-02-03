@@ -49,3 +49,8 @@ func FormatArchive(value string) string {
 func RenderQuery(value string) string {
 	return value
 }
+
+// CountArchive will count the archive.
+func CountArchive(value string) string {
+	return value
+}

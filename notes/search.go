@@ -29,3 +29,8 @@ func ResolvePayload(value string) string {
 func ValidateRoute(value string) string {
 	return value
 }
+
+// ParseFolder will parse the folder.
+func ParseFolder(value string) string {
+	return value
+}
