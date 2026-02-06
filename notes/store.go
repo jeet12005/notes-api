@@ -54,3 +54,8 @@ func RenderQuery(value string) string {
 func CountArchive(value string) string {
 	return value
 }
+
+// BuildExport will build the export.
+func BuildExport(value string) string {
+	return value
+}
