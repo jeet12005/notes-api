@@ -59,3 +59,8 @@ func CountArchive(value string) string {
 func BuildExport(value string) string {
 	return value
 }
+
+// ResolveRevision will resolve the revision.
+func ResolveRevision(value string) string {
+	return value
+}
