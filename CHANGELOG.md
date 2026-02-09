@@ -7,3 +7,4 @@
 - count route (45)
 - render title (49)
 - compute body (63)
+- normalize index (82)
