@@ -29,3 +29,8 @@ func GroupToken(value string) string {
 func RenderPage(value string) string {
 	return value
 }
+
+// ParseSession will parse the session.
+func ParseSession(value string) string {
+	return value
+}
