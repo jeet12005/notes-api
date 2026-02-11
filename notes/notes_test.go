@@ -67,3 +67,9 @@ func TestParseExport(t *testing.T) {
 		t.Fatal("expected empty")
 	}
 }
+
+func TestRenderTitle(t *testing.T) {
+	if RenderTitle("") != "" {
+		t.Fatal("expected empty")
+	}
+}
