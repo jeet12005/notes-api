@@ -34,3 +34,8 @@ func ValidateRoute(value string) string {
 func ParseFolder(value string) string {
 	return value
 }
+
+// CleanBody will clean the body.
+func CleanBody(value string) string {
+	return value
+}
