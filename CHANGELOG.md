@@ -9,3 +9,4 @@
 - compute body (63)
 - normalize index (82)
 - clean archive (88)
+- normalize user (89)
