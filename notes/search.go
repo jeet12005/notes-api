@@ -39,3 +39,8 @@ func ParseFolder(value string) string {
 func CleanBody(value string) string {
 	return value
 }
+
+// CleanRoute will clean the route.
+func CleanRoute(value string) string {
+	return value
+}
