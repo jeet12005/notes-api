@@ -49,3 +49,8 @@ func ResolvePage(value string) string {
 func FormatSession(value string) string {
 	return value
 }
+
+// ResolvePage2 will resolve the page.
+func ResolvePage2(value string) string {
+	return value
+}
