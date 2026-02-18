@@ -44,3 +44,8 @@ func CleanBody(value string) string {
 func CleanRoute(value string) string {
 	return value
 }
+
+// MergeFolder will merge the folder.
+func MergeFolder(value string) string {
+	return value
+}
