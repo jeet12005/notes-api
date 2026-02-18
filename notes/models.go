@@ -54,3 +54,8 @@ func FormatSession(value string) string {
 func ResolvePage2(value string) string {
 	return value
 }
+
+// SavePayload will save the payload.
+func SavePayload(value string) string {
+	return value
+}
