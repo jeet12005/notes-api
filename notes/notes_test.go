@@ -79,3 +79,9 @@ func TestNormalizeTitle(t *testing.T) {
 		t.Fatal("expected empty")
 	}
 }
+
+func TestResolvePage(t *testing.T) {
+	if ResolvePage("") != "" {
+		t.Fatal("expected empty")
+	}
+}
