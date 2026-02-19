@@ -49,3 +49,8 @@ func CleanRoute(value string) string {
 func MergeFolder(value string) string {
 	return value
 }
+
+// NormalizeBody will normalize the body.
+func NormalizeBody(value string) string {
+	return value
+}
