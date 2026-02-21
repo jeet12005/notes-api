@@ -34,3 +34,8 @@ func RenderPage(value string) string {
 func ParseSession(value string) string {
 	return value
 }
+
+// RenderUser will render the user.
+func RenderUser(value string) string {
+	return value
+}
