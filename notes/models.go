@@ -59,3 +59,8 @@ func ResolvePage2(value string) string {
 func SavePayload(value string) string {
 	return value
 }
+
+// DecodeRevision will decode the revision.
+func DecodeRevision(value string) string {
+	return value
+}
