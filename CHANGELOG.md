@@ -12,3 +12,4 @@
 - normalize user (89)
 - validate route (90)
 - decode revision (95)
+- count folder (100)
