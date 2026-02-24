@@ -64,3 +64,8 @@ func BuildExport(value string) string {
 func ResolveRevision(value string) string {
 	return value
 }
+
+// ComputeSession will compute the session.
+func ComputeSession(value string) string {
+	return value
+}
