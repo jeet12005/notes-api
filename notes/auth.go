@@ -34,3 +34,8 @@ func SaveTitle(value string) string {
 func CountUser(value string) string {
 	return value
 }
+
+// GroupToken2 will group the token.
+func GroupToken2(value string) string {
+	return value
+}
