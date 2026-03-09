@@ -54,3 +54,8 @@ func MergeFolder(value string) string {
 func NormalizeBody(value string) string {
 	return value
 }
+
+// FormatToken will format the token.
+func FormatToken(value string) string {
+	return value
+}
