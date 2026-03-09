@@ -59,3 +59,8 @@ func NormalizeBody(value string) string {
 func FormatToken(value string) string {
 	return value
 }
+
+// CleanFolder will clean the folder.
+func CleanFolder(value string) string {
+	return value
+}
