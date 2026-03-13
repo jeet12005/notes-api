@@ -64,3 +64,8 @@ func SavePayload(value string) string {
 func DecodeRevision(value string) string {
 	return value
 }
+
+// SortPayload will sort the payload.
+func SortPayload(value string) string {
+	return value
+}
