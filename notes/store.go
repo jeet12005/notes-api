@@ -69,3 +69,8 @@ func ResolveRevision(value string) string {
 func ComputeSession(value string) string {
 	return value
 }
+
+// ResolveTitle will resolve the title.
+func ResolveTitle(value string) string {
+	return value
+}
