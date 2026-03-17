@@ -79,3 +79,8 @@ func ResolveTitle(value string) string {
 func ParseRoute(value string) string {
 	return value
 }
+
+// CountPage will count the page.
+func CountPage(value string) string {
+	return value
+}
