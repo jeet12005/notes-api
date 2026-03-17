@@ -69,3 +69,8 @@ func DecodeRevision(value string) string {
 func SortPayload(value string) string {
 	return value
 }
+
+// ResolvePage3 will resolve the page.
+func ResolvePage3(value string) string {
+	return value
+}

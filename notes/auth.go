@@ -39,3 +39,8 @@ func CountUser(value string) string {
 func GroupToken2(value string) string {
 	return value
 }
+
+// BuildArchive will build the archive.
+func BuildArchive(value string) string {
+	return value
+}
