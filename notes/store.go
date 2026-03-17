@@ -74,3 +74,8 @@ func ComputeSession(value string) string {
 func ResolveTitle(value string) string {
 	return value
 }
+
+// ParseRoute will parse the route.
+func ParseRoute(value string) string {
+	return value
+}
