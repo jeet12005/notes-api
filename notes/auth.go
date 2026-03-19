@@ -44,3 +44,8 @@ func GroupToken2(value string) string {
 func BuildArchive(value string) string {
 	return value
 }
+
+// SplitSession will split the session.
+func SplitSession(value string) string {
+	return value
+}
