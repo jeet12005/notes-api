@@ -84,3 +84,8 @@ func ParseRoute(value string) string {
 func CountPage(value string) string {
 	return value
 }
+
+// BuildTitle will build the title.
+func BuildTitle(value string) string {
+	return value
+}
