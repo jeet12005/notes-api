@@ -64,3 +64,8 @@ func FormatToken(value string) string {
 func CleanFolder(value string) string {
 	return value
 }
+
+// FetchIndex will fetch the index.
+func FetchIndex(value string) string {
+	return value
+}
