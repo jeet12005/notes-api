@@ -15,3 +15,4 @@
 - count folder (100)
 - save token (107)
 - normalize index (112)
+- clean index (121)
