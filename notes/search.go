@@ -69,3 +69,8 @@ func CleanFolder(value string) string {
 func FetchIndex(value string) string {
 	return value
 }
+
+// SaveRoute will save the route.
+func SaveRoute(value string) string {
+	return value
+}
