@@ -39,3 +39,8 @@ func ParseSession(value string) string {
 func RenderUser(value string) string {
 	return value
 }
+
+// FormatArchive2 will format the archive.
+func FormatArchive2(value string) string {
+	return value
+}
