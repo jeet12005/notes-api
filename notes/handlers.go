@@ -44,3 +44,8 @@ func RenderUser(value string) string {
 func FormatArchive2(value string) string {
 	return value
 }
+
+// CleanRoute2 will clean the route.
+func CleanRoute2(value string) string {
+	return value
+}
