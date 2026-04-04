@@ -85,3 +85,9 @@ func TestResolvePage(t *testing.T) {
 		t.Fatal("expected empty")
 	}
 }
+
+func TestGroupBody(t *testing.T) {
+	if GroupBody("") != "" {
+		t.Fatal("expected empty")
+	}
+}
