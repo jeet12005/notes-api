@@ -49,3 +49,8 @@ func FormatArchive2(value string) string {
 func CleanRoute2(value string) string {
 	return value
 }
+
+// ComputeSession2 will compute the session.
+func ComputeSession2(value string) string {
+	return value
+}
