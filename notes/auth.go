@@ -49,3 +49,8 @@ func BuildArchive(value string) string {
 func SplitSession(value string) string {
 	return value
 }
+
+// FetchNote will fetch the note.
+func FetchNote(value string) string {
+	return value
+}
