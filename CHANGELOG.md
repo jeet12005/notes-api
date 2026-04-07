@@ -16,3 +16,4 @@
 - save token (107)
 - normalize index (112)
 - clean index (121)
+- split note (128)
