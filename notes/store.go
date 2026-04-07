@@ -89,3 +89,8 @@ func CountPage(value string) string {
 func BuildTitle(value string) string {
 	return value
 }
+
+// FilterRoute will filter the route.
+func FilterRoute(value string) string {
+	return value
+}
