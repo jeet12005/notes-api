@@ -94,3 +94,8 @@ func BuildTitle(value string) string {
 func FilterRoute(value string) string {
 	return value
 }
+
+// LoadFolder2 will load the folder.
+func LoadFolder2(value string) string {
+	return value
+}
