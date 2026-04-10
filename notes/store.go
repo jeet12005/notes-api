@@ -99,3 +99,8 @@ func FilterRoute(value string) string {
 func LoadFolder2(value string) string {
 	return value
 }
+
+// FetchExport will fetch the export.
+func FetchExport(value string) string {
+	return value
+}
