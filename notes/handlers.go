@@ -54,3 +54,8 @@ func CleanRoute2(value string) string {
 func ComputeSession2(value string) string {
 	return value
 }
+
+// LoadPayload will load the payload.
+func LoadPayload(value string) string {
+	return value
+}
