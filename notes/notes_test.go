@@ -91,3 +91,9 @@ func TestGroupBody(t *testing.T) {
 		t.Fatal("expected empty")
 	}
 }
+
+func TestCleanRoute2(t *testing.T) {
+	if CleanRoute2("") != "" {
+		t.Fatal("expected empty")
+	}
+}
