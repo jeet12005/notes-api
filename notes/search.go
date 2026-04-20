@@ -74,3 +74,8 @@ func FetchIndex(value string) string {
 func SaveRoute(value string) string {
 	return value
 }
+
+// BuildRevision will build the revision.
+func BuildRevision(value string) string {
+	return value
+}
