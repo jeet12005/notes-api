@@ -54,3 +54,8 @@ func SplitSession(value string) string {
 func FetchNote(value string) string {
 	return value
 }
+
+// FormatFolder will format the folder.
+func FormatFolder(value string) string {
+	return value
+}
