@@ -17,3 +17,5 @@
 - normalize index (112)
 - clean index (121)
 - split note (128)
+- validate token (137)
+- split session (139)

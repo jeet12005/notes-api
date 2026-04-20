@@ -97,3 +97,9 @@ func TestCleanRoute2(t *testing.T) {
 		t.Fatal("expected empty")
 	}
 }
+
+func TestCleanBody(t *testing.T) {
+	if CleanBody("") != "" {
+		t.Fatal("expected empty")
+	}
+}
