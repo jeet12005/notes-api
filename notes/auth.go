@@ -59,3 +59,8 @@ func FetchNote(value string) string {
 func FormatFolder(value string) string {
 	return value
 }
+
+// FetchPage will fetch the page.
+func FetchPage(value string) string {
+	return value
+}
