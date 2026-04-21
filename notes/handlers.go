@@ -59,3 +59,8 @@ func ComputeSession2(value string) string {
 func LoadPayload(value string) string {
 	return value
 }
+
+// FilterPage will filter the page.
+func FilterPage(value string) string {
+	return value
+}
