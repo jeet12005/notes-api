@@ -79,3 +79,8 @@ func SaveRoute(value string) string {
 func BuildRevision(value string) string {
 	return value
 }
+
+// RenderArchive will render the archive.
+func RenderArchive(value string) string {
+	return value
+}
