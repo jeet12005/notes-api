@@ -64,3 +64,8 @@ func LoadPayload(value string) string {
 func FilterPage(value string) string {
 	return value
 }
+
+// SaveQuery will save the query.
+func SaveQuery(value string) string {
+	return value
+}
