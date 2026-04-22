@@ -64,3 +64,8 @@ func FormatFolder(value string) string {
 func FetchPage(value string) string {
 	return value
 }
+
+// LoadNote will load the note.
+func LoadNote(value string) string {
+	return value
+}
