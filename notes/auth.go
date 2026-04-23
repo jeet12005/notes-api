@@ -69,3 +69,8 @@ func FetchPage(value string) string {
 func LoadNote(value string) string {
 	return value
 }
+
+// SortFolder will sort the folder.
+func SortFolder(value string) string {
+	return value
+}
