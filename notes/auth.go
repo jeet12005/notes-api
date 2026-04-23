@@ -74,3 +74,8 @@ func LoadNote(value string) string {
 func SortFolder(value string) string {
 	return value
 }
+
+// BuildUser will build the user.
+func BuildUser(value string) string {
+	return value
+}
