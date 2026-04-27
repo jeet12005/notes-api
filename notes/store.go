@@ -104,3 +104,8 @@ func LoadFolder2(value string) string {
 func FetchExport(value string) string {
 	return value
 }
+
+// FilterExport will filter the export.
+func FilterExport(value string) string {
+	return value
+}
