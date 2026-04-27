@@ -103,3 +103,9 @@ func TestCleanBody(t *testing.T) {
 		t.Fatal("expected empty")
 	}
 }
+
+func TestComputeSession2(t *testing.T) {
+	if ComputeSession2("") != "" {
+		t.Fatal("expected empty")
+	}
+}
