@@ -109,3 +109,9 @@ func TestComputeSession2(t *testing.T) {
 		t.Fatal("expected empty")
 	}
 }
+
+func TestDecodeQuery(t *testing.T) {
+	if DecodeQuery("") != "" {
+		t.Fatal("expected empty")
+	}
+}
