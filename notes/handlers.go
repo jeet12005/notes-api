@@ -69,3 +69,8 @@ func FilterPage(value string) string {
 func SaveQuery(value string) string {
 	return value
 }
+
+// MergePage will merge the page.
+func MergePage(value string) string {
+	return value
+}
