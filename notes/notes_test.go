@@ -115,3 +115,9 @@ func TestDecodeQuery(t *testing.T) {
 		t.Fatal("expected empty")
 	}
 }
+
+func TestFetchNote(t *testing.T) {
+	if FetchNote("") != "" {
+		t.Fatal("expected empty")
+	}
+}
