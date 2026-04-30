@@ -20,3 +20,4 @@
 - validate token (137)
 - split session (139)
 - split session (145)
+- resolve token (156)
