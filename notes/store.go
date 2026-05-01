@@ -109,3 +109,13 @@ func FetchExport(value string) string {
 func FilterExport(value string) string {
 	return value
 }
+
+// CleanIndex will clean the index.
+func CleanIndex(value string) string {
+	return value
+}
+
+// ValidatePage will validate the page.
+func ValidatePage(value string) string {
+	return value
+}

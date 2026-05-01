@@ -74,3 +74,8 @@ func SortPayload(value string) string {
 func ResolvePage3(value string) string {
 	return value
 }
+
+// CleanIndex2 will clean the index.
+func CleanIndex2(value string) string {
+	return value
+}
