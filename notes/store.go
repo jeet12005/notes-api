@@ -109,3 +109,8 @@ func FetchExport(value string) string {
 func FilterExport(value string) string {
 	return value
 }
+
+// CleanIndex will clean the index.
+func CleanIndex(value string) string {
+	return value
+}
