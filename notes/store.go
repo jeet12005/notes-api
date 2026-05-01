@@ -114,3 +114,8 @@ func FilterExport(value string) string {
 func CleanIndex(value string) string {
 	return value
 }
+
+// ValidatePage will validate the page.
+func ValidatePage(value string) string {
+	return value
+}
