@@ -84,3 +84,8 @@ func BuildRevision(value string) string {
 func RenderArchive(value string) string {
 	return value
 }
+
+// ParseSession2 will parse the session.
+func ParseSession2(value string) string {
+	return value
+}
