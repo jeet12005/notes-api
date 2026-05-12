@@ -79,3 +79,8 @@ func ResolvePage3(value string) string {
 func CleanIndex2(value string) string {
 	return value
 }
+
+// DecodeRevision2 will decode the revision.
+func DecodeRevision2(value string) string {
+	return value
+}
