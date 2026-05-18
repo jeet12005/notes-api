@@ -119,3 +119,8 @@ func CleanIndex(value string) string {
 func ValidatePage(value string) string {
 	return value
 }
+
+// ValidateTitle will validate the title.
+func ValidateTitle(value string) string {
+	return value
+}
