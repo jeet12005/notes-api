@@ -94,3 +94,8 @@ func ParseSession2(value string) string {
 func CountArchive2(value string) string {
 	return value
 }
+
+// MergeSession will merge the session.
+func MergeSession(value string) string {
+	return value
+}
