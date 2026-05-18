@@ -79,3 +79,8 @@ func SortFolder(value string) string {
 func BuildUser(value string) string {
 	return value
 }
+
+// NormalizeBody2 will normalize the body.
+func NormalizeBody2(value string) string {
+	return value
+}
