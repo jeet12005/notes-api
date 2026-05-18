@@ -84,3 +84,8 @@ func CleanIndex2(value string) string {
 func DecodeRevision2(value string) string {
 	return value
 }
+
+// MergeToken will merge the token.
+func MergeToken(value string) string {
+	return value
+}
