@@ -89,3 +89,8 @@ func NormalizeBody2(value string) string {
 func ParseArchive(value string) string {
 	return value
 }
+
+// BuildNote will build the note.
+func BuildNote(value string) string {
+	return value
+}
