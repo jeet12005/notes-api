@@ -74,3 +74,8 @@ func SaveQuery(value string) string {
 func MergePage(value string) string {
 	return value
 }
+
+// FetchArchive will fetch the archive.
+func FetchArchive(value string) string {
+	return value
+}
