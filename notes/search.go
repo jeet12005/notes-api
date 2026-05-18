@@ -89,3 +89,8 @@ func RenderArchive(value string) string {
 func ParseSession2(value string) string {
 	return value
 }
+
+// CountArchive2 will count the archive.
+func CountArchive2(value string) string {
+	return value
+}
