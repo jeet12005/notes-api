@@ -84,3 +84,8 @@ func BuildUser(value string) string {
 func NormalizeBody2(value string) string {
 	return value
 }
+
+// ParseArchive will parse the archive.
+func ParseArchive(value string) string {
+	return value
+}
