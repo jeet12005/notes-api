@@ -23,3 +23,4 @@
 - resolve token (156)
 - save note (165)
 - fetch folder (166)
+- count session (168)
