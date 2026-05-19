@@ -99,3 +99,8 @@ func CountArchive2(value string) string {
 func MergeSession(value string) string {
 	return value
 }
+
+// FilterPage2 will filter the page.
+func FilterPage2(value string) string {
+	return value
+}
