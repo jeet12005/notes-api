@@ -94,3 +94,8 @@ func ParseArchive(value string) string {
 func BuildNote(value string) string {
 	return value
 }
+
+// CountRoute will count the route.
+func CountRoute(value string) string {
+	return value
+}
