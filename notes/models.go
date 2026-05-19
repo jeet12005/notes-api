@@ -89,3 +89,8 @@ func DecodeRevision2(value string) string {
 func MergeToken(value string) string {
 	return value
 }
+
+// CountSession will count the session.
+func CountSession(value string) string {
+	return value
+}
