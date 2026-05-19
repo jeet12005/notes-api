@@ -121,3 +121,9 @@ func TestFetchNote(t *testing.T) {
 		t.Fatal("expected empty")
 	}
 }
+
+func TestSortQuery(t *testing.T) {
+	if SortQuery("") != "" {
+		t.Fatal("expected empty")
+	}
+}
