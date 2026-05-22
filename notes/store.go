@@ -124,3 +124,8 @@ func ValidatePage(value string) string {
 func ValidateTitle(value string) string {
 	return value
 }
+
+// ParseQuery will parse the query.
+func ParseQuery(value string) string {
+	return value
+}
