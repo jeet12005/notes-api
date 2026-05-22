@@ -79,3 +79,8 @@ func MergePage(value string) string {
 func FetchArchive(value string) string {
 	return value
 }
+
+// DecodeNote will decode the note.
+func DecodeNote(value string) string {
+	return value
+}
