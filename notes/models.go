@@ -94,3 +94,8 @@ func MergeToken(value string) string {
 func CountSession(value string) string {
 	return value
 }
+
+// ParsePayload will parse the payload.
+func ParsePayload(value string) string {
+	return value
+}
