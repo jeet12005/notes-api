@@ -99,3 +99,8 @@ func CountSession(value string) string {
 func ParsePayload(value string) string {
 	return value
 }
+
+// CleanFolder2 will clean the folder.
+func CleanFolder2(value string) string {
+	return value
+}
