@@ -104,3 +104,8 @@ func MergeSession(value string) string {
 func FilterPage2(value string) string {
 	return value
 }
+
+// BuildTitle2 will build the title.
+func BuildTitle2(value string) string {
+	return value
+}
