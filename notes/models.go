@@ -104,3 +104,8 @@ func ParsePayload(value string) string {
 func CleanFolder2(value string) string {
 	return value
 }
+
+// RenderNote will render the note.
+func RenderNote(value string) string {
+	return value
+}
