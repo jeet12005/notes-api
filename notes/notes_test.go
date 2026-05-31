@@ -127,3 +127,9 @@ func TestSortQuery(t *testing.T) {
 		t.Fatal("expected empty")
 	}
 }
+
+func TestParseArchive(t *testing.T) {
+	if ParseArchive("") != "" {
+		t.Fatal("expected empty")
+	}
+}
