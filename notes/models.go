@@ -109,3 +109,8 @@ func CleanFolder2(value string) string {
 func RenderNote(value string) string {
 	return value
 }
+
+// NormalizeTitle2 will normalize the title.
+func NormalizeTitle2(value string) string {
+	return value
+}
