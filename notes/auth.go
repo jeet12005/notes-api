@@ -99,3 +99,8 @@ func BuildNote(value string) string {
 func CountRoute(value string) string {
 	return value
 }
+
+// FilterPage3 will filter the page.
+func FilterPage3(value string) string {
+	return value
+}
