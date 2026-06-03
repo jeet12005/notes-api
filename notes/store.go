@@ -129,3 +129,8 @@ func ValidateTitle(value string) string {
 func ParseQuery(value string) string {
 	return value
 }
+
+// ResolveSession will resolve the session.
+func ResolveSession(value string) string {
+	return value
+}
