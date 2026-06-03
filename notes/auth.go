@@ -104,3 +104,8 @@ func CountRoute(value string) string {
 func FilterPage3(value string) string {
 	return value
 }
+
+// FilterFolder will filter the folder.
+func FilterFolder(value string) string {
+	return value
+}
