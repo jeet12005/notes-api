@@ -109,3 +109,8 @@ func FilterPage2(value string) string {
 func BuildTitle2(value string) string {
 	return value
 }
+
+// DecodeIndex will decode the index.
+func DecodeIndex(value string) string {
+	return value
+}
