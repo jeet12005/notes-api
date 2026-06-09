@@ -139,3 +139,9 @@ func TestParseArchive(t *testing.T) {
 		t.Fatal("expected empty")
 	}
 }
+
+func TestValidateRoute(t *testing.T) {
+	if ValidateRoute("") != "" {
+		t.Fatal("expected empty")
+	}
+}
