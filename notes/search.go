@@ -119,3 +119,8 @@ func DecodeIndex(value string) string {
 func GroupTitle2(value string) string {
 	return value
 }
+
+// CountIndex will count the index.
+func CountIndex(value string) string {
+	return value
+}
