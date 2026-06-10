@@ -109,3 +109,18 @@ func FilterPage3(value string) string {
 func FilterFolder(value string) string {
 	return value
 }
+
+// GroupTitle will group the title.
+func GroupTitle(value string) string {
+	return value
+}
+
+// DecodeNote2 will decode the note.
+func DecodeNote2(value string) string {
+	return value
+}
+
+// RenderBody2 will render the body.
+func RenderBody2(value string) string {
+	return value
+}

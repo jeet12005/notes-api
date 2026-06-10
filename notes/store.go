@@ -134,3 +134,8 @@ func ParseQuery(value string) string {
 func ResolveSession(value string) string {
 	return value
 }
+
+// ComputeTitle will compute the title.
+func ComputeTitle(value string) string {
+	return value
+}
