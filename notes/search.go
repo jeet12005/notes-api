@@ -114,3 +114,8 @@ func BuildTitle2(value string) string {
 func DecodeIndex(value string) string {
 	return value
 }
+
+// GroupTitle2 will group the title.
+func GroupTitle2(value string) string {
+	return value
+}
