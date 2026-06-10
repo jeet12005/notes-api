@@ -151,3 +151,9 @@ func TestComputeSession2(t *testing.T) {
 		t.Fatal("expected empty")
 	}
 }
+
+func TestDecodeRevision2(t *testing.T) {
+	if DecodeRevision2("") != "" {
+		t.Fatal("expected empty")
+	}
+}
