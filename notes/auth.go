@@ -119,3 +119,8 @@ func GroupTitle(value string) string {
 func DecodeNote2(value string) string {
 	return value
 }
+
+// RenderBody2 will render the body.
+func RenderBody2(value string) string {
+	return value
+}
