@@ -109,3 +109,8 @@ func FilterPage3(value string) string {
 func FilterFolder(value string) string {
 	return value
 }
+
+// GroupTitle will group the title.
+func GroupTitle(value string) string {
+	return value
+}
