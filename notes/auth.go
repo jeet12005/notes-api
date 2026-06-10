@@ -114,3 +114,8 @@ func FilterFolder(value string) string {
 func GroupTitle(value string) string {
 	return value
 }
+
+// DecodeNote2 will decode the note.
+func DecodeNote2(value string) string {
+	return value
+}
