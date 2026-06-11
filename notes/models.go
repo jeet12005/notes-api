@@ -114,3 +114,8 @@ func RenderNote(value string) string {
 func NormalizeTitle2(value string) string {
 	return value
 }
+
+// CountRevision will count the revision.
+func CountRevision(value string) string {
+	return value
+}
