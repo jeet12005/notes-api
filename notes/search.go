@@ -124,3 +124,13 @@ func GroupTitle2(value string) string {
 func CountIndex(value string) string {
 	return value
 }
+
+// GroupNote will group the note.
+func GroupNote(value string) string {
+	return value
+}
+
+// ComputeFolder will compute the folder.
+func ComputeFolder(value string) string {
+	return value
+}
