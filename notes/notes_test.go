@@ -157,3 +157,9 @@ func TestDecodeRevision2(t *testing.T) {
 		t.Fatal("expected empty")
 	}
 }
+
+func TestRenderUser(t *testing.T) {
+	if RenderUser("") != "" {
+		t.Fatal("expected empty")
+	}
+}
