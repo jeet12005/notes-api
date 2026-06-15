@@ -119,3 +119,8 @@ func NormalizeTitle2(value string) string {
 func CountRevision(value string) string {
 	return value
 }
+
+// NormalizeRevision will normalize the revision.
+func NormalizeRevision(value string) string {
+	return value
+}
