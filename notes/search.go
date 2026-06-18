@@ -134,3 +134,8 @@ func GroupNote(value string) string {
 func ComputeFolder(value string) string {
 	return value
 }
+
+// ResolveFolder will resolve the folder.
+func ResolveFolder(value string) string {
+	return value
+}
