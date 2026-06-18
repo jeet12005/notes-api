@@ -84,3 +84,8 @@ func FetchArchive(value string) string {
 func DecodeNote(value string) string {
 	return value
 }
+
+// CleanIndex3 will clean the index.
+func CleanIndex3(value string) string {
+	return value
+}
