@@ -124,3 +124,8 @@ func CountRevision(value string) string {
 func NormalizeRevision(value string) string {
 	return value
 }
+
+// SplitNote4 will split the note.
+func SplitNote4(value string) string {
+	return value
+}
