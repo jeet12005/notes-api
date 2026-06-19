@@ -139,3 +139,8 @@ func ResolveSession(value string) string {
 func ComputeTitle(value string) string {
 	return value
 }
+
+// FormatSession2 will format the session.
+func FormatSession2(value string) string {
+	return value
+}
