@@ -163,3 +163,9 @@ func TestRenderUser(t *testing.T) {
 		t.Fatal("expected empty")
 	}
 }
+
+func TestGroupTitle(t *testing.T) {
+	if GroupTitle("") != "" {
+		t.Fatal("expected empty")
+	}
+}
