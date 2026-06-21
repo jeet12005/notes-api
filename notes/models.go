@@ -129,3 +129,8 @@ func NormalizeRevision(value string) string {
 func SplitNote4(value string) string {
 	return value
 }
+
+// CountQuery will count the query.
+func CountQuery(value string) string {
+	return value
+}
