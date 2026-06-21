@@ -139,3 +139,8 @@ func ComputeFolder(value string) string {
 func ResolveFolder(value string) string {
 	return value
 }
+
+// ValidatePage2 will validate the page.
+func ValidatePage2(value string) string {
+	return value
+}
