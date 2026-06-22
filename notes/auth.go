@@ -124,3 +124,8 @@ func DecodeNote2(value string) string {
 func RenderBody2(value string) string {
 	return value
 }
+
+// FormatRevision will format the revision.
+func FormatRevision(value string) string {
+	return value
+}
