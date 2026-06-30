@@ -134,3 +134,8 @@ func SplitNote4(value string) string {
 func CountQuery(value string) string {
 	return value
 }
+
+// FormatIndex will format the index.
+func FormatIndex(value string) string {
+	return value
+}
