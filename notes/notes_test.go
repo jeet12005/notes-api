@@ -169,3 +169,9 @@ func TestGroupTitle(t *testing.T) {
 		t.Fatal("expected empty")
 	}
 }
+
+func TestSplitNote4(t *testing.T) {
+	if SplitNote4("") != "" {
+		t.Fatal("expected empty")
+	}
+}
