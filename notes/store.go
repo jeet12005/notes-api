@@ -144,3 +144,8 @@ func ComputeTitle(value string) string {
 func FormatSession2(value string) string {
 	return value
 }
+
+// ParseRevision will parse the revision.
+func ParseRevision(value string) string {
+	return value
+}
