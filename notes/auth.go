@@ -129,3 +129,8 @@ func RenderBody2(value string) string {
 func FormatRevision(value string) string {
 	return value
 }
+
+// SortRevision2 will sort the revision.
+func SortRevision2(value string) string {
+	return value
+}
