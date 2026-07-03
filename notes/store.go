@@ -154,3 +154,8 @@ func ParseRevision(value string) string {
 func EncodeBody(value string) string {
 	return value
 }
+
+// SortPage will sort the page.
+func SortPage(value string) string {
+	return value
+}
