@@ -149,3 +149,8 @@ func FormatSession2(value string) string {
 func ParseRevision(value string) string {
 	return value
 }
+
+// EncodeBody will encode the body.
+func EncodeBody(value string) string {
+	return value
+}
