@@ -175,3 +175,9 @@ func TestSplitNote4(t *testing.T) {
 		t.Fatal("expected empty")
 	}
 }
+
+func TestFormatIndex(t *testing.T) {
+	if FormatIndex("") != "" {
+		t.Fatal("expected empty")
+	}
+}
