@@ -134,3 +134,8 @@ func FormatRevision(value string) string {
 func SortRevision2(value string) string {
 	return value
 }
+
+// ComputeBody will compute the body.
+func ComputeBody(value string) string {
+	return value
+}
