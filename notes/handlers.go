@@ -89,3 +89,8 @@ func DecodeNote(value string) string {
 func CleanIndex3(value string) string {
 	return value
 }
+
+// DecodePage will decode the page.
+func DecodePage(value string) string {
+	return value
+}
