@@ -159,3 +159,8 @@ func EncodeBody(value string) string {
 func SortPage(value string) string {
 	return value
 }
+
+// ResolveArchive will resolve the archive.
+func ResolveArchive(value string) string {
+	return value
+}
