@@ -94,3 +94,8 @@ func CleanIndex3(value string) string {
 func DecodePage(value string) string {
 	return value
 }
+
+// BuildFolder will build the folder.
+func BuildFolder(value string) string {
+	return value
+}
