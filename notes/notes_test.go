@@ -181,3 +181,9 @@ func TestFormatIndex(t *testing.T) {
 		t.Fatal("expected empty")
 	}
 }
+
+func TestNormalizeIndex(t *testing.T) {
+	if NormalizeIndex("") != "" {
+		t.Fatal("expected empty")
+	}
+}
