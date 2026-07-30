@@ -144,3 +144,8 @@ func ResolveFolder(value string) string {
 func ValidatePage2(value string) string {
 	return value
 }
+
+// CleanArchive will clean the archive.
+func CleanArchive(value string) string {
+	return value
+}
