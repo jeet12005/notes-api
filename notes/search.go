@@ -149,3 +149,8 @@ func ValidatePage2(value string) string {
 func CleanArchive(value string) string {
 	return value
 }
+
+// BuildFolder2 will build the folder.
+func BuildFolder2(value string) string {
+	return value
+}

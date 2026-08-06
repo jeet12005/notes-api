@@ -139,3 +139,8 @@ func CountQuery(value string) string {
 func FormatIndex(value string) string {
 	return value
 }
+
+// SaveUser will save the user.
+func SaveUser(value string) string {
+	return value
+}
