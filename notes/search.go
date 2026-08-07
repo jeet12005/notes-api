@@ -154,3 +154,8 @@ func CleanArchive(value string) string {
 func BuildFolder2(value string) string {
 	return value
 }
+
+// GroupTitle3 will group the title.
+func GroupTitle3(value string) string {
+	return value
+}
