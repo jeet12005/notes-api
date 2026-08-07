@@ -99,3 +99,8 @@ func DecodePage(value string) string {
 func BuildFolder(value string) string {
 	return value
 }
+
+// FormatRevision2 will format the revision.
+func FormatRevision2(value string) string {
+	return value
+}
