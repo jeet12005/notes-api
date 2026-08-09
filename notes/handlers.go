@@ -104,3 +104,8 @@ func BuildFolder(value string) string {
 func FormatRevision2(value string) string {
 	return value
 }
+
+// CleanIndex4 will clean the index.
+func CleanIndex4(value string) string {
+	return value
+}
