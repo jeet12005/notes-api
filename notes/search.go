@@ -159,3 +159,8 @@ func BuildFolder2(value string) string {
 func GroupTitle3(value string) string {
 	return value
 }
+
+// EncodeArchive will encode the archive.
+func EncodeArchive(value string) string {
+	return value
+}
