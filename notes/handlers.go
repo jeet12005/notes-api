@@ -109,3 +109,8 @@ func FormatRevision2(value string) string {
 func CleanIndex4(value string) string {
 	return value
 }
+
+// CountUser2 will count the user.
+func CountUser2(value string) string {
+	return value
+}
