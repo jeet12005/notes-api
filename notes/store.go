@@ -164,3 +164,13 @@ func SortPage(value string) string {
 func ResolveArchive(value string) string {
 	return value
 }
+
+// SplitArchive will split the archive.
+func SplitArchive(value string) string {
+	return value
+}
+
+// EncodePage will encode the page.
+func EncodePage(value string) string {
+	return value
+}
