@@ -169,3 +169,8 @@ func ResolveArchive(value string) string {
 func SplitArchive(value string) string {
 	return value
 }
+
+// EncodePage will encode the page.
+func EncodePage(value string) string {
+	return value
+}
