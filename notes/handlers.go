@@ -114,3 +114,8 @@ func CleanIndex4(value string) string {
 func CountUser2(value string) string {
 	return value
 }
+
+// ComputePayload will compute the payload.
+func ComputePayload(value string) string {
+	return value
+}
