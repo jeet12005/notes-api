@@ -164,3 +164,8 @@ func GroupTitle3(value string) string {
 func EncodeArchive(value string) string {
 	return value
 }
+
+// FilterNote will filter the note.
+func FilterNote(value string) string {
+	return value
+}
