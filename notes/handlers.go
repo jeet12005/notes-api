@@ -119,3 +119,8 @@ func CountUser2(value string) string {
 func ComputePayload(value string) string {
 	return value
 }
+
+// EncodePayload will encode the payload.
+func EncodePayload(value string) string {
+	return value
+}
