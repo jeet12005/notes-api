@@ -187,3 +187,9 @@ func TestNormalizeIndex(t *testing.T) {
 		t.Fatal("expected empty")
 	}
 }
+
+func TestCountIndex(t *testing.T) {
+	if CountIndex("") != "" {
+		t.Fatal("expected empty")
+	}
+}
