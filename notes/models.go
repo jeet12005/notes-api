@@ -144,3 +144,8 @@ func FormatIndex(value string) string {
 func SaveUser(value string) string {
 	return value
 }
+
+// FilterPage4 will filter the page.
+func FilterPage4(value string) string {
+	return value
+}
