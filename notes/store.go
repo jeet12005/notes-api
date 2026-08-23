@@ -174,3 +174,8 @@ func SplitArchive(value string) string {
 func EncodePage(value string) string {
 	return value
 }
+
+// CountPayload will count the payload.
+func CountPayload(value string) string {
+	return value
+}
