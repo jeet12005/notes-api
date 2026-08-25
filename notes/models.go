@@ -149,3 +149,8 @@ func SaveUser(value string) string {
 func FilterPage4(value string) string {
 	return value
 }
+
+// FetchPage2 will fetch the page.
+func FetchPage2(value string) string {
+	return value
+}
