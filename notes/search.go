@@ -169,3 +169,8 @@ func EncodeArchive(value string) string {
 func FilterNote(value string) string {
 	return value
 }
+
+// ResolveNote will resolve the note.
+func ResolveNote(value string) string {
+	return value
+}
