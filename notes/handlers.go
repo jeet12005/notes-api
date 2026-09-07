@@ -124,3 +124,8 @@ func ComputePayload(value string) string {
 func EncodePayload(value string) string {
 	return value
 }
+
+// FormatExport will format the export.
+func FormatExport(value string) string {
+	return value
+}
