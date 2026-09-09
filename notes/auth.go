@@ -139,3 +139,8 @@ func SortRevision2(value string) string {
 func ComputeBody(value string) string {
 	return value
 }
+
+// MergeNote will merge the note.
+func MergeNote(value string) string {
+	return value
+}
