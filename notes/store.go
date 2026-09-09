@@ -179,3 +179,8 @@ func EncodePage(value string) string {
 func CountPayload(value string) string {
 	return value
 }
+
+// BuildPage will build the page.
+func BuildPage(value string) string {
+	return value
+}
