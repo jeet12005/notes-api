@@ -144,3 +144,8 @@ func ComputeBody(value string) string {
 func MergeNote(value string) string {
 	return value
 }
+
+// CleanQuery will clean the query.
+func CleanQuery(value string) string {
+	return value
+}
