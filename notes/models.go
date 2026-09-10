@@ -154,3 +154,8 @@ func FilterPage4(value string) string {
 func FetchPage2(value string) string {
 	return value
 }
+
+// GroupPage will group the page.
+func GroupPage(value string) string {
+	return value
+}
