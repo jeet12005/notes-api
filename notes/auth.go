@@ -149,3 +149,8 @@ func MergeNote(value string) string {
 func CleanQuery(value string) string {
 	return value
 }
+
+// CleanSession will clean the session.
+func CleanSession(value string) string {
+	return value
+}
