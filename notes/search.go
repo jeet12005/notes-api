@@ -174,3 +174,8 @@ func FilterNote(value string) string {
 func ResolveNote(value string) string {
 	return value
 }
+
+// SaveSession will save the session.
+func SaveSession(value string) string {
+	return value
+}
