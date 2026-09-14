@@ -184,3 +184,8 @@ func CountPayload(value string) string {
 func BuildPage(value string) string {
 	return value
 }
+
+// CleanTitle will clean the title.
+func CleanTitle(value string) string {
+	return value
+}
