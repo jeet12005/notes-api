@@ -193,3 +193,9 @@ func TestCountIndex(t *testing.T) {
 		t.Fatal("expected empty")
 	}
 }
+
+func TestParseQuery(t *testing.T) {
+	if ParseQuery("") != "" {
+		t.Fatal("expected empty")
+	}
+}
