@@ -129,3 +129,8 @@ func EncodePayload(value string) string {
 func FormatExport(value string) string {
 	return value
 }
+
+// FetchPage3 will fetch the page.
+func FetchPage3(value string) string {
+	return value
+}
