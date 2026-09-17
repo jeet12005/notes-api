@@ -189,3 +189,8 @@ func BuildPage(value string) string {
 func CleanTitle(value string) string {
 	return value
 }
+
+// GroupFolder will group the folder.
+func GroupFolder(value string) string {
+	return value
+}
