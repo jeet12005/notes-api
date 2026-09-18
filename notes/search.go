@@ -179,3 +179,8 @@ func ResolveNote(value string) string {
 func SaveSession(value string) string {
 	return value
 }
+
+// LoadTitle2 will load the title.
+func LoadTitle2(value string) string {
+	return value
+}
