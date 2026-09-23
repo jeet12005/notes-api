@@ -194,3 +194,8 @@ func CleanTitle(value string) string {
 func GroupFolder(value string) string {
 	return value
 }
+
+// LoadRevision will load the revision.
+func LoadRevision(value string) string {
+	return value
+}
