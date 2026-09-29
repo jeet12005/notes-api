@@ -159,3 +159,8 @@ func FetchPage2(value string) string {
 func GroupPage(value string) string {
 	return value
 }
+
+// MergeFolder2 will merge the folder.
+func MergeFolder2(value string) string {
+	return value
+}
