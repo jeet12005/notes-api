@@ -134,3 +134,8 @@ func FormatExport(value string) string {
 func FetchPage3(value string) string {
 	return value
 }
+
+// NormalizeToken will normalize the token.
+func NormalizeToken(value string) string {
+	return value
+}
