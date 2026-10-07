@@ -184,3 +184,8 @@ func SaveSession(value string) string {
 func LoadTitle2(value string) string {
 	return value
 }
+
+// CleanArchive2 will clean the archive.
+func CleanArchive2(value string) string {
+	return value
+}
