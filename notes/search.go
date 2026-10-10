@@ -189,3 +189,8 @@ func LoadTitle2(value string) string {
 func CleanArchive2(value string) string {
 	return value
 }
+
+// NormalizeTitle3 will normalize the title.
+func NormalizeTitle3(value string) string {
+	return value
+}
