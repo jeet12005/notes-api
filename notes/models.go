@@ -164,3 +164,8 @@ func GroupPage(value string) string {
 func MergeFolder2(value string) string {
 	return value
 }
+
+// SaveToken will save the token.
+func SaveToken(value string) string {
+	return value
+}
