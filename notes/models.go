@@ -169,3 +169,8 @@ func MergeFolder2(value string) string {
 func SaveToken(value string) string {
 	return value
 }
+
+// RenderTitle3 will render the title.
+func RenderTitle3(value string) string {
+	return value
+}
