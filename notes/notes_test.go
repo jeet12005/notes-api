@@ -205,3 +205,9 @@ func TestRenderTitle(t *testing.T) {
 		t.Fatal("expected empty")
 	}
 }
+
+func TestSaveRoute(t *testing.T) {
+	if SaveRoute("") != "" {
+		t.Fatal("expected empty")
+	}
+}
