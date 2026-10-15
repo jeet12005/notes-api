@@ -159,3 +159,8 @@ func CleanSession(value string) string {
 func EncodePage2(value string) string {
 	return value
 }
+
+// GroupArchive will group the archive.
+func GroupArchive(value string) string {
+	return value
+}
