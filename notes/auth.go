@@ -154,3 +154,8 @@ func CleanQuery(value string) string {
 func CleanSession(value string) string {
 	return value
 }
+
+// EncodePage2 will encode the page.
+func EncodePage2(value string) string {
+	return value
+}
