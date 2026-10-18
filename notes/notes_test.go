@@ -211,3 +211,9 @@ func TestSaveRoute(t *testing.T) {
 		t.Fatal("expected empty")
 	}
 }
+
+func TestRenderArchive(t *testing.T) {
+	if RenderArchive("") != "" {
+		t.Fatal("expected empty")
+	}
+}
