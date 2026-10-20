@@ -217,3 +217,9 @@ func TestRenderArchive(t *testing.T) {
 		t.Fatal("expected empty")
 	}
 }
+
+func TestFilterPage2(t *testing.T) {
+	if FilterPage2("") != "" {
+		t.Fatal("expected empty")
+	}
+}
