@@ -164,3 +164,8 @@ func EncodePage2(value string) string {
 func GroupArchive(value string) string {
 	return value
 }
+
+// FetchPayload will fetch the payload.
+func FetchPayload(value string) string {
+	return value
+}
