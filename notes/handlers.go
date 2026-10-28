@@ -139,3 +139,8 @@ func FetchPage3(value string) string {
 func NormalizeToken(value string) string {
 	return value
 }
+
+// NormalizePage will normalize the page.
+func NormalizePage(value string) string {
+	return value
+}
