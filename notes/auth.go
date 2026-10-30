@@ -174,3 +174,8 @@ func FetchPayload(value string) string {
 func BuildBody(value string) string {
 	return value
 }
+
+// FormatPayload will format the payload.
+func FormatPayload(value string) string {
+	return value
+}
