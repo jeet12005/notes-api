@@ -169,3 +169,13 @@ func GroupArchive(value string) string {
 func FetchPayload(value string) string {
 	return value
 }
+
+// BuildBody will build the body.
+func BuildBody(value string) string {
+	return value
+}
+
+// FormatPayload will format the payload.
+func FormatPayload(value string) string {
+	return value
+}
