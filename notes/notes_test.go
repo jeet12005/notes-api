@@ -229,3 +229,9 @@ func TestComputeSession(t *testing.T) {
 		t.Fatal("expected empty")
 	}
 }
+
+func TestCountPayload(t *testing.T) {
+	if CountPayload("") != "" {
+		t.Fatal("expected empty")
+	}
+}
