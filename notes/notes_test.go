@@ -223,3 +223,9 @@ func TestFilterPage2(t *testing.T) {
 		t.Fatal("expected empty")
 	}
 }
+
+func TestComputeSession(t *testing.T) {
+	if ComputeSession("") != "" {
+		t.Fatal("expected empty")
+	}
+}
