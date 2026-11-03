@@ -179,3 +179,8 @@ func BuildBody(value string) string {
 func FormatPayload(value string) string {
 	return value
 }
+
+// ResolveArchive2 will resolve the archive.
+func ResolveArchive2(value string) string {
+	return value
+}
