@@ -179,3 +179,8 @@ func RenderTitle3(value string) string {
 func ResolveToken(value string) string {
 	return value
 }
+
+// ResolveUser will resolve the user.
+func ResolveUser(value string) string {
+	return value
+}
