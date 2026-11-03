@@ -154,3 +154,8 @@ func FetchFolder(value string) string {
 func NormalizeQuery(value string) string {
 	return value
 }
+
+// CleanFolder3 will clean the folder.
+func CleanFolder3(value string) string {
+	return value
+}
