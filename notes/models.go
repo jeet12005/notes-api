@@ -174,3 +174,8 @@ func SaveToken(value string) string {
 func RenderTitle3(value string) string {
 	return value
 }
+
+// ResolveToken will resolve the token.
+func ResolveToken(value string) string {
+	return value
+}
