@@ -149,3 +149,8 @@ func NormalizePage(value string) string {
 func FetchFolder(value string) string {
 	return value
 }
+
+// NormalizeQuery will normalize the query.
+func NormalizeQuery(value string) string {
+	return value
+}
