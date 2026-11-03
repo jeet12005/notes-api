@@ -194,3 +194,8 @@ func CleanArchive2(value string) string {
 func NormalizeTitle3(value string) string {
 	return value
 }
+
+// FetchRoute will fetch the route.
+func FetchRoute(value string) string {
+	return value
+}
