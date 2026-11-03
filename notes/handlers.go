@@ -144,3 +144,8 @@ func NormalizeToken(value string) string {
 func NormalizePage(value string) string {
 	return value
 }
+
+// FetchFolder will fetch the folder.
+func FetchFolder(value string) string {
+	return value
+}
