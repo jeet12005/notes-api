@@ -199,3 +199,8 @@ func NormalizeTitle3(value string) string {
 func FetchRoute(value string) string {
 	return value
 }
+
+// FormatNote will format the note.
+func FormatNote(value string) string {
+	return value
+}
