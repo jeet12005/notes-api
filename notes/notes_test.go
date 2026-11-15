@@ -247,3 +247,9 @@ func TestNormalizeTitle(t *testing.T) {
 		t.Fatal("expected empty")
 	}
 }
+
+func TestResolveSession(t *testing.T) {
+	if ResolveSession("") != "" {
+		t.Fatal("expected empty")
+	}
+}
