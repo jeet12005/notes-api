@@ -235,3 +235,9 @@ func TestCountPayload(t *testing.T) {
 		t.Fatal("expected empty")
 	}
 }
+
+func TestCleanFolder3(t *testing.T) {
+	if CleanFolder3("") != "" {
+		t.Fatal("expected empty")
+	}
+}
