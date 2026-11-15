@@ -241,3 +241,9 @@ func TestCleanFolder3(t *testing.T) {
 		t.Fatal("expected empty")
 	}
 }
+
+func TestNormalizeTitle(t *testing.T) {
+	if NormalizeTitle("") != "" {
+		t.Fatal("expected empty")
+	}
+}
