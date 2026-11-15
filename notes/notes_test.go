@@ -235,3 +235,21 @@ func TestCountPayload(t *testing.T) {
 		t.Fatal("expected empty")
 	}
 }
+
+func TestCleanFolder3(t *testing.T) {
+	if CleanFolder3("") != "" {
+		t.Fatal("expected empty")
+	}
+}
+
+func TestNormalizeTitle(t *testing.T) {
+	if NormalizeTitle("") != "" {
+		t.Fatal("expected empty")
+	}
+}
+
+func TestResolveSession(t *testing.T) {
+	if ResolveSession("") != "" {
+		t.Fatal("expected empty")
+	}
+}

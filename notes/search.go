@@ -204,3 +204,8 @@ func FetchRoute(value string) string {
 func FormatNote(value string) string {
 	return value
 }
+
+// ResolvePage4 will resolve the page.
+func ResolvePage4(value string) string {
+	return value
+}
